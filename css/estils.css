@@ -14,7 +14,7 @@ header, footer {
     color:ghostwhite;
 }
 
-.llistat {
+.llistat div{
   display: flex;
   flex-wrap: wrap;
   gap: 1rem;
@@ -37,10 +37,14 @@ header, footer {
 }
 
 .fitxa img {
-  width: 250px;
+  width: 500px;
   height: auto;
 }
 
+footer {
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
 /* @media (max-width: 768px) {
   .llistat {
     flex-direction: column;
