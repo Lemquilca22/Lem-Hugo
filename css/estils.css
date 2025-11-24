@@ -31,22 +31,19 @@ header, footer {
 }
 
 .detall {
-  padding: 1rem;
   width: 400px;
   margin: 0 auto; 
 }
 .fitxa {
+    transition: box-shadow 0.3s ease;
+    background-color:#f5e8e8;
     margin: 1rem 0;
     border-radius: 0.5rem;
     padding: 0.25rem 0;
+    cursor: pointer;
 }
 .fitxa h1 {
     text-align: center;
-}
-
-.fitxa img {
-  width: 400px;
-  height: auto;
 }
 
 footer {
