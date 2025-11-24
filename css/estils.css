@@ -26,6 +26,10 @@ header, footer {
 .detall {
   padding: 1rem;
 }
+.fitxa{
+    width: 400px;
+    margin: 0 auto; 
+}
 
 .fitxa img {
   width: 250px;
