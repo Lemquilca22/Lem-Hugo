@@ -9,6 +9,11 @@ header, footer {
   padding: 1rem;
 }
 
+.encabezado {
+    background-color:midnightblue;
+    color:ghostwhite;
+}
+
 .llistat {
   display: flex;
   flex-wrap: wrap;
