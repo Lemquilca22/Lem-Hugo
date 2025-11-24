@@ -28,18 +28,27 @@ header, footer {
   max-width: 250px;
   
 }
+header{
+    background-color:midnightblue;
+    color: white;
+    padding: 3rem 2rem;
+}
 
+header h1 {
+    font-size: 4rem;
+    text-align: center;
+}
 .detall {
   width: 400px;
   margin: 0 auto; 
 }
 .fitxa {
     transition: box-shadow 0.3s ease;
-    background-color:#f5e8e8;
+    background-color:#f8f3f3;
     margin: 1rem 0;
     border-radius: 0.5rem;
     padding: 0.25rem 0;
-    cursor: pointer;
+
 }
 .fitxa h1 {
     text-align: center;
