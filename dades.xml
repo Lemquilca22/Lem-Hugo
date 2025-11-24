@@ -1,74 +1,73 @@
-<cataleg>
-<joc id="A001">
-       <titol>Hollow Knight</titol>
-       <genere>Metroidvania</genere>
-       <any>2017</any>
-       <plataforma>PC</plataforma>
-       <preu>15.99</preu>
-       <valoracio>9.5</valoracio>
-       <descripcio>
-         Joc d'acció i exploració en 2D ambientat en un món subterrani.
-       </descripcio>
-     </joc>
+<catalogo>
+<juego id="A001">
+       <titulo>The Legend of Zelda: Breath of the Wild</titulo>
+       <genero>Aventura</genero>
+       <año>2017</año>
+       <plataforma>Nintendo Switch</plataforma>
+       <precio>54.99</precio>
+       <valoracion>9.5</valoracion>
+       <descripcionn>
+         Juego de mundo abierto y exploración con libertad total. Tiene una historia que invita a descubrir cada rincón de Hyrule.
+       </descripcion>
+     </juego>
 
-<joc id="A002">
-       <titol>Hollow Knight</titol>
-       <genere>Metroidvania</genere>
-       <any>2017</any>
+<juego id="A002">
+       <titulo>The Witcher 3: Wild Hunt</titulo>
+       <genero>Acción</genero>
+       <año>2015</año>
        <plataforma>PC</plataforma>
-       <preu>15.99</preu>
-       <valoracio>9.5</valoracio>
-       <descripcio>
-         Joc d'acció i exploració en 2D ambientat en un món subterrani.
-       </descripcio>
-     </joc>
+       <precio>19.99</precio>
+       <valoracion>9.7</valoracion>
+       <descripcion>
+         Juego con historia muy rica, misiones secundarias profundas, decisiones morales y combates dinámicos.
+     </juego>
 
-<joc id="A003">
-       <titol>Hollow Knight</titol>
-       <genere>Metroidvania</genere>
-       <any>2017</any>
+<juego id="A003">
+       <titulo>Minecraft</titulo>
+       <genero>Supervivencia</genero>
+       <año>2011</año>
        <plataforma>PC</plataforma>
-       <preu>15.99</preu>
-       <valoracio>9.5</valoracio>
-       <descripcio>
-         Joc d'acció i exploració en 2D ambientat en un món subterrani.
-       </descripcio>
-     </joc>
+       <precio>14.99</precio>
+       <valoracion>9</valoracion>
+       <descripcion>
+         Juego centrado en la construcción y supervivencia. Puedes minar, construir casas, combatir monstruos por la noche y explorar mundos.
+       </descripcion>
+     </juego>
 
-<joc id="A004">
-       <titol>Hollow Knight</titol>
-       <genere>Metroidvania</genere>
-       <any>2017</any>
+<juego id="A004">
+       <titulo>God of War</titulo>
+       <genero>Metroidvania</genero>
+       <año>2017</año>
        <plataforma>PC</plataforma>
-       <preu>15.99</preu>
-       <valoracio>9.5</valoracio>
-       <descripcio>
-         Joc d'acció i exploració en 2D ambientat en un món subterrani.
-       </descripcio>
-     </joc>
+       <precio>15.99</precio>
+       <valoracion>9.5</valoracion>
+       <descripcion>
+         juego d'acció i exploració en 2D ambientat en un món subterrani.
+       </descripcion>
+     </juego>
 
-<joc id="G001">
-       <titol>Hollow Knight</titol>
-       <genere>Metroidvania</genere>
-       <any>2017</any>
+<juego id="A005">
+       <titulo>Hollow Knight</titulo>
+       <genero>Metroidvania</genero>
+       <año>2017</año>
        <plataforma>PC</plataforma>
-       <preu>15.99</preu>
-       <valoracio>9.5</valoracio>
-       <descripcio>
-         Joc d'acció i exploració en 2D ambientat en un món subterrani.
-       </descripcio>
-     </joc>
+       <precio>15.99</precio>
+       <valoracion>9.5</valoracion>
+       <descripcion>
+         juego d'acció i exploració en 2D ambientat en un món subterrani.
+       </descripcion>
+     </juego>
 
-<joc id="G001">
-       <titol>Hollow Knight</titol>
-       <genere>Metroidvania</genere>
-       <any>2017</any>
+<juego id="A006">
+       <titulo>Hollow Knight</titulo>
+       <genero>Metroidvania</genero>
+       <año>2017</año>
        <plataforma>PC</plataforma>
-       <preu>15.99</preu>
-       <valoracio>9.5</valoracio>
-       <descripcio>
-         Joc d'acció i exploració en 2D ambientat en un món subterrani.
-       </descripcio>
-     </joc>
+       <precio>15.99</precio>
+       <valoracion>9.5</valoracion>
+       <descripcion>
+         juego d'acció i exploració en 2D ambientat en un món subterrani.
+       </descripcion>
+     </juego>
 
-</cataleg>
+</catalogo>
