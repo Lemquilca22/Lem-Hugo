@@ -6,9 +6,7 @@ body {
 
 header, footer {
   text-align: center;
-  padding: 1rem;
-  background-color: tan;
-  
+  padding: 1rem;  
 }
 
 .encabezado {
@@ -28,6 +26,7 @@ header, footer {
   border: 1px solid #ccc;
   padding: 1rem;
   max-width: 250px;
+  
 }
 
 header h1 {
