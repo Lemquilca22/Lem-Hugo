@@ -7,7 +7,7 @@
        <precio>54.99</precio>
        <valoracion>9.5</valoracion>
        <descripcionn>
-         Juego de mundo abierto y exploración con libertad total. Tiene una historia que invita a descubrir cada rincón de Hyrule.
+        Juego de mundo abierto y exploración con libertad total. Tiene una historia que invita a descubrir cada rincón de Hyrule.
        </descripcion>
      </juego>
 
@@ -15,11 +15,11 @@
        <titulo>The Witcher 3: Wild Hunt</titulo>
        <genero>Acción</genero>
        <año>2015</año>
-       <plataforma>PC</plataforma>
+       <plataforma>PC/PS4/PS5/Xbox One/Xbox Series/Nintendo Switch</plataforma>
        <precio>19.99</precio>
        <valoracion>9.7</valoracion>
        <descripcion>
-         Juego con historia muy rica, misiones secundarias profundas, decisiones morales y combates dinámicos.
+        Juego con historia muy rica, misiones secundarias profundas, decisiones morales y combates dinámicos.
      </juego>
 
 <juego id="A003">
@@ -30,44 +30,43 @@
        <precio>14.99</precio>
        <valoracion>9</valoracion>
        <descripcion>
-         Juego centrado en la construcción y supervivencia. Puedes minar, construir casas, combatir monstruos por la noche y explorar mundos.
+        Juego centrado en la construcción y supervivencia. Puedes minar, construir casas, combatir monstruos por la noche y explorar mundos.
        </descripcion>
      </juego>
 
 <juego id="A004">
        <titulo>God of War</titulo>
-       <genero>Metroidvania</genero>
-       <año>2017</año>
-       <plataforma>PC</plataforma>
-       <precio>15.99</precio>
-       <valoracion>9.5</valoracion>
+       <genero>Acción</genero>
+       <año>2018</año>
+       <plataforma>PS4/PS5/PC</plataforma>
+       <precio>9.99</precio>
+       <valoracion>9.4</valoracion>
        <descripcion>
-         juego d'acció i exploració en 2D ambientat en un món subterrani.
+        Combates intensos, exploración, diálogos emocionales y desarrollo de personaje. El juego mezcla acción violenta con momentos muy íntimos entre padre e hijo.
        </descripcion>
      </juego>
 
 <juego id="A005">
-       <titulo>Hollow Knight</titulo>
-       <genero>Metroidvania</genero>
+       <titulo>Red Dead Redemption 2</titulo>
+       <genero>Aventura</genero>
        <año>2017</año>
-       <plataforma>PC</plataforma>
-       <precio>15.99</precio>
-       <valoracion>9.5</valoracion>
+       <plataforma>PS4/PS5/PC</plataforma>
+       <precio>18.69</precio>
+       <valoracion>9.6</valoracion>
        <descripcion>
-         juego d'acció i exploració en 2D ambientat en un món subterrani.
+        El juego ofrece misiones muy variadas (robos, cazas, duelos), un mundo abierto impresionante con paisajes realistas, vida salvaje, interacción social y una narrativa cinematográfica profunda.
        </descripcion>
      </juego>
 
 <juego id="A006">
-       <titulo>Hollow Knight</titulo>
-       <genero>Metroidvania</genero>
-       <año>2017</año>
-       <plataforma>PC</plataforma>
-       <precio>15.99</precio>
+       <titulo>Grand Theft Auto V</titulo>
+       <genero>Acción</genero>
+       <año>2013</año>
+       <plataforma>PS3/PS4/PS5/Xbox 360/XBox One/Xbox Series/PC</plataforma>
+       <precio>34.18</precio>
        <valoracion>9.5</valoracion>
        <descripcion>
-         juego d'acció i exploració en 2D ambientat en un món subterrani.
+        Es un juego de mundo abierto donde puedes moverte libremente por una ciudad inspirada en Los Ángeles, realizar misiones de crimen, conducir coches, hacer robos, e interactuar con otros personajes. Además, cuenta con un modo online muy completo.
        </descripcion>
      </juego>
-
 </catalogo>
