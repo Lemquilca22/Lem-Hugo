@@ -28,13 +28,12 @@ header, footer {
 }
 
 .fitxa img {
-  max-width: 100%;
+  width: 250px;
   height: auto;
 }
 
-@media (max-width: 768px) {
+/* @media (max-width: 768px) {
   .llistat {
     flex-direction: column;
     align-items: center;
-  }
-}
+  } */
