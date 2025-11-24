@@ -7,6 +7,7 @@
 | `<plataforma>`          | PC                    | `<p><strong>Plataforma(s):</strong> PC</p>`      |
 | `<precio>`              | 14.99€                | `<p><strong>Precio:</strong> 14.99€</p>`         |
 | `<valoracion>`          | 9/10                  | `<p><strong>Valoración:</strong> 9/10</p>`       |
+| `<descripcion>`         | 9/10                  | `<p><strong>Valoración:</strong> 9/10</p>`       |
 
 Función del XML:
 La función del XML es estructurar y almacenar datos de forma ordenada y legible. Lo usamos para configurar, transportar o 
