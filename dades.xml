@@ -6,7 +6,7 @@
        <plataforma>Nintendo Switch</plataforma>
        <precio>54.99</precio>
        <valoracion>9.5</valoracion>
-       <descripcionn>
+       <descripcion>
         Juego de mundo abierto y exploración con libertad total. Tiene una historia que invita a descubrir cada rincón de Hyrule.
        </descripcion>
      </juego>
@@ -20,6 +20,7 @@
        <valoracion>9.7</valoracion>
        <descripcion>
         Juego con historia muy rica, misiones secundarias profundas, decisiones morales y combates dinámicos.
+        </descripcion>
      </juego>
 
 <juego id="A003">
