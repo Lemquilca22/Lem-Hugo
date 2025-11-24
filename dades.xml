@@ -4,9 +4,9 @@
        <genero>Aventura</genero>
        <año>2017</año>
        <plataforma>Nintendo Switch</plataforma>
-       <precio>54.99</precio>
-       <valoracion>9.5</valoracion>
-       <descripcionn>
+       <precio>54.99€</precio>
+       <valoracion>9.5/10</valoracion>
+       <descripcion>
         Juego de mundo abierto y exploración con libertad total. Tiene una historia que invita a descubrir cada rincón de Hyrule.
        </descripcion>
      </juego>
@@ -16,10 +16,11 @@
        <genero>Acción</genero>
        <año>2015</año>
        <plataforma>PC/PS4/PS5/Xbox One/Xbox Series/Nintendo Switch</plataforma>
-       <precio>19.99</precio>
-       <valoracion>9.7</valoracion>
+       <precio>19.99€</precio>
+       <valoracion>9.7/10</valoracion>
        <descripcion>
         Juego con historia muy rica, misiones secundarias profundas, decisiones morales y combates dinámicos.
+        </descripcion>
      </juego>
 
 <juego id="A003">
@@ -27,8 +28,8 @@
        <genero>Supervivencia</genero>
        <año>2011</año>
        <plataforma>PC</plataforma>
-       <precio>14.99</precio>
-       <valoracion>9</valoracion>
+       <precio>14.99€</precio>
+       <valoracion>9/10</valoracion>
        <descripcion>
         Juego centrado en la construcción y supervivencia. Puedes minar, construir casas, combatir monstruos por la noche y explorar mundos.
        </descripcion>
@@ -39,8 +40,8 @@
        <genero>Acción</genero>
        <año>2018</año>
        <plataforma>PS4/PS5/PC</plataforma>
-       <precio>9.99</precio>
-       <valoracion>9.4</valoracion>
+       <precio>9.99€</precio>
+       <valoracion>9.4/10</valoracion>
        <descripcion>
         Combates intensos, exploración, diálogos emocionales y desarrollo de personaje. El juego mezcla acción violenta con momentos muy íntimos entre padre e hijo.
        </descripcion>
@@ -51,8 +52,8 @@
        <genero>Aventura</genero>
        <año>2017</año>
        <plataforma>PS4/PS5/PC</plataforma>
-       <precio>18.69</precio>
-       <valoracion>9.6</valoracion>
+       <precio>18.69€</precio>
+       <valoracion>9.6/10</valoracion>
        <descripcion>
         El juego ofrece misiones muy variadas (robos, cazas, duelos), un mundo abierto impresionante con paisajes realistas, vida salvaje, interacción social y una narrativa cinematográfica profunda.
        </descripcion>
@@ -62,9 +63,9 @@
        <titulo>Grand Theft Auto V</titulo>
        <genero>Acción</genero>
        <año>2013</año>
-       <plataforma>PS3/PS4/PS5/Xbox 360/XBox One/Xbox Series/PC</plataforma>
-       <precio>34.18</precio>
-       <valoracion>9.5</valoracion>
+       <plataforma>PS3/PS4/PS5/Xbox 360/Xbox One/Xbox Series/PC</plataforma>
+       <precio>34.18€</precio>
+       <valoracion>9.5/10</valoracion>
        <descripcion>
         Es un juego de mundo abierto donde puedes moverte libremente por una ciudad inspirada en Los Ángeles, realizar misiones de crimen, conducir coches, hacer robos, e interactuar con otros personajes. Además, cuenta con un modo online muy completo.
        </descripcion>
