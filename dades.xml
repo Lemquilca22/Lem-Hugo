@@ -1,0 +1,74 @@
+<cataleg>
+<joc id="A001">
+       <titol>Hollow Knight</titol>
+       <genere>Metroidvania</genere>
+       <any>2017</any>
+       <plataforma>PC</plataforma>
+       <preu>15.99</preu>
+       <valoracio>9.5</valoracio>
+       <descripcio>
+         Joc d'acció i exploració en 2D ambientat en un món subterrani.
+       </descripcio>
+     </joc>
+
+<joc id="A002">
+       <titol>Hollow Knight</titol>
+       <genere>Metroidvania</genere>
+       <any>2017</any>
+       <plataforma>PC</plataforma>
+       <preu>15.99</preu>
+       <valoracio>9.5</valoracio>
+       <descripcio>
+         Joc d'acció i exploració en 2D ambientat en un món subterrani.
+       </descripcio>
+     </joc>
+
+<joc id="A003">
+       <titol>Hollow Knight</titol>
+       <genere>Metroidvania</genere>
+       <any>2017</any>
+       <plataforma>PC</plataforma>
+       <preu>15.99</preu>
+       <valoracio>9.5</valoracio>
+       <descripcio>
+         Joc d'acció i exploració en 2D ambientat en un món subterrani.
+       </descripcio>
+     </joc>
+
+<joc id="A004">
+       <titol>Hollow Knight</titol>
+       <genere>Metroidvania</genere>
+       <any>2017</any>
+       <plataforma>PC</plataforma>
+       <preu>15.99</preu>
+       <valoracio>9.5</valoracio>
+       <descripcio>
+         Joc d'acció i exploració en 2D ambientat en un món subterrani.
+       </descripcio>
+     </joc>
+
+<joc id="G001">
+       <titol>Hollow Knight</titol>
+       <genere>Metroidvania</genere>
+       <any>2017</any>
+       <plataforma>PC</plataforma>
+       <preu>15.99</preu>
+       <valoracio>9.5</valoracio>
+       <descripcio>
+         Joc d'acció i exploració en 2D ambientat en un món subterrani.
+       </descripcio>
+     </joc>
+
+<joc id="G001">
+       <titol>Hollow Knight</titol>
+       <genere>Metroidvania</genere>
+       <any>2017</any>
+       <plataforma>PC</plataforma>
+       <preu>15.99</preu>
+       <valoracio>9.5</valoracio>
+       <descripcio>
+         Joc d'acció i exploració en 2D ambientat en un món subterrani.
+       </descripcio>
+     </joc>
+
+</cataleg>
